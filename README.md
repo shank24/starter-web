@@ -15,4 +15,7 @@ This is for deployment related stuff.
 ## How to Contirbute
 You can contribute by forking it and adding on that. 
 
+###Copyright
+
+2020 Git.Training
 
