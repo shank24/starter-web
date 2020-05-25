@@ -2,7 +2,9 @@
 # The humans responsible & technology colophon
 
 # TEAM
+
 Adding Remote changes.
+TEAM is comprised of BE & QA.
 
 Jason Taylor Shank24
     <name> -- <role> -- <twitter>
