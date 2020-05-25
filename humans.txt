@@ -13,7 +13,8 @@ Adding changes before rebasing conflicts.
 Some more changes on master file.
 
 Now, adding more changes on bigtrouble.
-Adding changes on trouble
+Adding changes on trouble.
+Adding more change.
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
