@@ -2,6 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
+Adding Remote changes.
 
 Jason Taylor Shank24
     <name> -- <role> -- <twitter>
