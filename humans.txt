@@ -7,7 +7,7 @@ Jason Taylor Shank24
     <name> -- <role> -- <twitter>
 
 # THANKS
-
+	Thanks to everyone
     <name>
 
 # TECHNOLOGY COLOPHON
