@@ -10,6 +10,7 @@ Jason Taylor Shank24
 	Thanks to everyone for rebasing example.
     <name>
 Adding changes before rebasing conflicts.
+Some more changes on master file.
 
 # TECHNOLOGY COLOPHON
 
