@@ -12,6 +12,8 @@ Jason Taylor Shank24
 Adding changes before rebasing conflicts.
 Some more changes on master file.
 
+Now, adding more changes on bigtrouble.
+Adding changes on trouble
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
