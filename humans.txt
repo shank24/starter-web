@@ -23,4 +23,8 @@ Adding more change.
     HTML5, CSS3
     jQuery, Modernizr
 
+<<<<<<< Updated upstream
 Now adding changes for Stash Purpose. Adding Code.
+
+Now adding changes for Stash Purpose Changes.
+Stashed changes
