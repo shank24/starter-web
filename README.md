@@ -25,6 +25,7 @@ Fork this Repo & Issue Pull request for review.
 
 2020 Git.Training. All rights reserved.
 
-Aading a new line. 
+Adding a new line.
+
 
 
